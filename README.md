@@ -1,2 +1,2 @@
 # super-hero
-This is demo web app which is using spring-boot
+This is demo web app which is created using spring-boot
